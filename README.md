@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MARKANDEY-MAITHANI
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning all use case and applying maximum apllications with ESP-32
+- 🌱 I’m currently learning ESP-32 for Audio/Video application.
 - 💞️ I’m looking to collaborate on Product development
 - 📫 My mail ID:- Markandeymaithani@gmail.com
 
